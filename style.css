@@ -1,0 +1,117 @@
+#one
+{
+	width:100%;
+	height:50%;
+	background-color:#8E44AD
+}
+#three
+{
+	width:100%;
+	height:95%;
+	background-color:#48C9B0
+}
+#two
+{
+	clear:both
+}
+#four
+{
+	width:100%;
+	height:30%;
+	background-color:white
+}
+#head
+{
+	padding-left:100px;
+	padding-top:30px;
+	color:white;
+}
+#list_item
+{
+	list-style-type:none;
+}
+.list
+{
+	padding-top:10px;
+	margin-right:50px;
+    float:right;
+    text-decoration:none;
+    color:white
+}	
+li a:hover
+{
+	background-color:black;
+}
+#par
+{
+	margin-top:100px;
+	text-align:center;
+	font-size:30px;
+	color:white
+}
+#inside
+{
+   margin-left:600px;
+   padding-left:30px;
+   padding-top:10px;
+   width:150px;
+   height:40px;
+   background-color:#F39C12;
+}
+div a
+{
+	color:white;
+	text-decoration:none
+}
+#center
+{
+	margin-top:-1px;
+	text-align:center;
+	padding-top:70px;
+	color:white;
+}
+#parcenter
+{
+	margin-top:30px;
+	text-align:center;
+	font-size:30px;
+	color:white;
+}
+#divimg
+{
+	text-align:center
+}
+.image
+{
+	width:150px;
+	height:150px;
+	padding-left:70px
+}
+#divspan
+{
+	margin-top:30px;
+	text-align:center
+}
+.spa
+{
+	padding-left:140px;
+	color:white;
+	font-weight:bold
+}
+#divspan2
+{
+	margin-top:20px;
+}
+.spa2
+{
+	color:white;
+	float:left;
+	padding-left:150px
+}
+#foot
+{
+	font-style:bold;
+	text-align:center;
+	color:black;
+	padding-top:70px
+}
